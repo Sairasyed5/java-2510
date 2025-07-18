@@ -162,4 +162,33 @@
 
     -> Setup GitHub Account...
 
-    
+    17 class
+  =============================
+  java Compiler(javac)
+  
+  java Interprter(java)
+
+  JVM-JRE-JDK
+
+  JVM:
+   
+   it Converts Byte code to Machine code
+
+   JRE:
+
+  ->  it provides Environment to Run a code.
+  ->  In Servers we use JRE
+
+   JRE is used to Run a java/Program App.
+
+   JRE is not used to Develop JAVA/ PROGRAMS/APPS
+
+-> w.respect to hello word program (app.java)
+
+JDK: you canwrite java code using JDK tools(java)
+
+JRE: you coompile java code using JRE(JAVAC)
+
+JVM: Reads.class file i.e Byte code and Gives it to OS for execution.
+
+
