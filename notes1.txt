@@ -143,8 +143,7 @@
 
 
 
-
-        16th July
+  16th July
 =========
 
     -> Install Java (21 LTS)
@@ -161,4 +160,6 @@
 
     -> Install Git On Your Laptop  
 
-    -> Setup GitHub Account
+    -> Setup GitHub Account...
+
+    
